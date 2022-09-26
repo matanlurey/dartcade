@@ -14,14 +14,14 @@ A simple set of terminal-based arcade games written in pure Dart.
 <!-- ENABLE WHEN PUBLISHED
 [pub_url]: https://pub.dartlang.org/packages/dartcade
 [pub_img]: https://img.shields.io/pub/v/dartcade.svg
-[cov_url]: https://codecov.io/gh/neo-dart/dartcade
-[cov_img]: https://codecov.io/gh/neo-dart/dartcade/branch/main/graph/badge.svg
+[cov_url]: https://codecov.io/gh/matanlurey/dartcade
+[cov_img]: https://codecov.io/gh/matanlurey/dartcade/branch/main/graph/badge.svg
 [doc_url]: https://www.dartdocs.org/documentation/dartcade/latest
 [doc_img]: https://img.shields.io/badge/Documentation-dartcade-blue.svg
 -->
 
-[gha_url]: https://github.com/neo-dart/dartcade/actions
-[gha_img]: https://github.com/neo-dart/dartcade/workflows/Dart/badge.svg
+[gha_url]: https://github.com/matanlurey/dartcade/actions
+[gha_img]: https://github.com/matanlurey/dartcade/workflows/Dart/badge.svg
 [sty_url]: https://pub.dev/packages/neodart
 [sty_img]: https://img.shields.io/badge/style-neodart-9cf.svg
 
